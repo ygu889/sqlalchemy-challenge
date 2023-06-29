@@ -1,1 +1,2 @@
 # sqlalchemy-challenge
+For this challenge, i used the climate_starter_py provided and reviewed the class example ins_app_solution 3 and app_solution 3 for dynamic API route to assist with the codes and hints in the challenge
